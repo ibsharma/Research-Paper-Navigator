@@ -1,0 +1,33 @@
+
+> research-paper-navigator@1.0.0 fetch
+> tsx src/1_fetch_papers.ts
+
+Fetching up to 50 open-access papers for "retrieval augmented generation" from OpenAlex...
+Received 50 works from OpenAlex.
+  [1/50] W3030163527 PDF ok | cited_by=63675 | Language Models are Few-Shot Learners
+  [2/50] W4327810158 PDF ok | cited_by=56884 | GPT-4 Technical Report
+  [3/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/1907.10121.pdf
+  [3/50] W3003257820 PDF ok | cited_by=54759 | SciPy 1.0: fundamental algorithms for scientific computing in Python
+  [4/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/0906.2569.pdf
+  [4/50] W2120145199 PDF ok | cited_by=34857 | QUANTUM ESPRESSO: a modular and open-source software project for quantum simulat
+  [5/50] W2981852735 PDF ok | cited_by=31983 | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme
+  [6/50] W4401306886 PDF ok | cited_by=30242 | The Llama 3 Herd of Models
+  [7/50] W2970641574 PDF ok | cited_by=24719 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+  [8/50] W4414939355 PDF ok | cited_by=20336 | Qwen3 Technical Report
+  [9/50] W3098425262 PDF ok | cited_by=20060 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  [10/50] W4414281281 PDF ok | cited_by=19385 | DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+  [11/50] W1992419399 PDF failed | cited_by=16515 | Data clustering: a review
+  [12/50] W2271840356 PDF ok | cited_by=16122 | TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+  [13/50] W2981731882 PDF ok | cited_by=15469 | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities a
+  [14/50] W2127048411 PDF ok | cited_by=13320 | Community detection in graphs
+  [15/50] W3163993681 PDF ok | cited_by=13110 | Physics-informed machine learning
+  [16/50] W2995022099 PDF ok | cited_by=12951 | Advances and Open Problems in Federated Learning
+  [17/50] W1532325895 PDF failed | cited_by=12652 | Introduction to information retrieval
+  [18/50] W3195577433 PDF ok | cited_by=12497 | On the Opportunities and Risks of Foundation Models
+  [19/50] W3159481202 PDF ok | cited_by=11743 | Emerging Properties in Self-Supervised Vision Transformers
+  [20/50] W4309674289 PDF ok | cited_by=11535 | Survey of Hallucination in Natural Language Generation
+  [21/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/1709.10010.pdf
+  [21/50] W2757803490 PDF ok | cited_by=11370 | Advanced capabilities for materials modelling with Q uantum ESPRESSO
+  [22/50] W2134295053 PDF ok | cited_by=11091 | Internet of Things: A Survey on Enabling Technologies, Protocols, and Applicatio
+  [23/50] W3027879771 PDF ok | cited_by=10642 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+^C^C

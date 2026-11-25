@@ -1,0 +1,9 @@
+
+> research-paper-navigator@1.0.0 index
+> tsx src/3_index_qdrant.ts
+
+Loading embedding model Xenova/bge-small-en-v1.5 (may download weights on first run)...
+Embedding model loaded.
+Recreating Qdrant collection 'rag_papers' (size=384, distance=Cosine)...
+  [1/50] W3030163527 -> 262 chunks (pdf) | Language Models are Few-Shot Learners
+^C^C

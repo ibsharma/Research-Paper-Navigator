@@ -1,0 +1,1 @@
+{"title":"qdrant - vector search engine","version":"1.20.2","commit":"23065a0bf6857c3e5da45f6c8939cc746cc0580e"}

@@ -1,0 +1,67 @@
+
+> research-paper-navigator@1.0.0 fetch
+> tsx src/1_fetch_papers.ts
+
+Fetching up to 50 open-access papers for "retrieval augmented generation" from OpenAlex...
+Received 50 works from OpenAlex.
+  [1/50] W3030163527 PDF ok | cited_by=63675 | Language Models are Few-Shot Learners
+  [2/50] W4327810158 PDF ok | cited_by=56884 | GPT-4 Technical Report
+  [3/50] W3003257820 PDF ok | cited_by=54759 | SciPy 1.0: fundamental algorithms for scientific computing in Python
+  [4/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/0906.2569.pdf
+  [4/50] W2120145199 PDF ok | cited_by=34857 | QUANTUM ESPRESSO: a modular and open-source software project for quantum simulat
+  [5/50] W2981852735 PDF ok | cited_by=31983 | Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transforme
+  [6/50] W4401306886 PDF ok | cited_by=30242 | The Llama 3 Herd of Models
+  [7/50] W2970641574 PDF ok | cited_by=24719 | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+  [8/50] W4414939355 PDF ok | cited_by=20336 | Qwen3 Technical Report
+  [9/50] W3098425262 PDF ok | cited_by=20060 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  [10/50] W4414281281 PDF ok | cited_by=19385 | DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learning
+  [11/50] W1992419399 PDF failed | cited_by=16515 | Data clustering: a review
+  [12/50] W2271840356 PDF ok | cited_by=16122 | TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed Systems
+  [13/50] W2981731882 PDF ok | cited_by=15469 | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, opportunities a
+  [14/50] W2127048411 PDF ok | cited_by=13320 | Community detection in graphs
+  [15/50] W3163993681 PDF ok | cited_by=13110 | Physics-informed machine learning
+  [16/50] W2995022099 PDF ok | cited_by=12951 | Advances and Open Problems in Federated Learning
+  [17/50] W1532325895 PDF failed | cited_by=12652 | Introduction to information retrieval
+  [18/50] W3195577433 PDF ok | cited_by=12497 | On the Opportunities and Risks of Foundation Models
+  [19/50] W3159481202 PDF ok | cited_by=11743 | Emerging Properties in Self-Supervised Vision Transformers
+  [20/50] W4309674289 PDF ok | cited_by=11535 | Survey of Hallucination in Natural Language Generation
+  [21/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/1709.10010.pdf
+  [21/50] W2757803490 PDF ok | cited_by=11370 | Advanced capabilities for materials modelling with Q uantum ESPRESSO
+  [22/50] W2134295053 PDF ok | cited_by=11091 | Internet of Things: A Survey on Enabling Technologies, Protocols, and Applicatio
+  [23/50] W3027879771 PDF ok | cited_by=10642 | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  [24/50] W3140854437 PDF ok | cited_by=10268 | Review of deep learning: concepts, CNN architectures, challenges, applications, 
+  [25/50] W4318718936 PDF ok | cited_by=10163 | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image Encoders and
+  [26/50] W2117131162 PDF failed | cited_by=10150 | Integrative Genomics Viewer (IGV): high-performance genomics data visualization 
+  [27/50] W4304195432 PDF ok | cited_by=10055 | ReAct: Synergizing Reasoning and Acting in Language Models
+  [28/50] W4405903187 PDF ok | cited_by=9879 | DeepSeek-V3 Technical Report
+  [29/50] W3152893301 PDF ok | cited_by=9428 | Graph neural networks: A review of methods and applications
+  [30/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/1801.07829.pdf
+  [30/50] W2979750740 PDF ok | cited_by=9151 | Dynamic Graph CNN for Learning on Point Clouds
+  [31/50] W3107527779 PDF failed | cited_by=9141 | The STRING database in 2021: customizable protein–protein networks, and function
+  [32/50] W2185907055 PDF failed | cited_by=9038 | A relational model of data for large shared data banks
+  [33/50] W2463195069 PDF failed | cited_by=8972 | The Perseus computational platform for comprehensive analysis of (prote)omics da
+  [34/50] W4389984066 PDF ok | cited_by=8905 | Retrieval-Augmented Generation for Large Language Models: A Survey
+  [35/50] W4362515116 PDF ok | cited_by=8902 | A Survey of Large Language Models
+  [36/50] W3015883388 PDF ok | cited_by=8898 | Dense Passage Retrieval for Open-Domain Question Answering
+  [37/50] W3041133507 PDF ok | cited_by=8724 | A Comprehensive Survey on Transfer Learning
+  [38/50] W4360620450 PDF failed | cited_by=8656 | Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspectives on 
+  [39/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/2304.03442.pdf
+  [39/50] W4387835442 PDF ok | cited_by=8539 | Generative Agents: Interactive Simulacra of Human Behavior
+  [40/50] W1641498739 PDF ok | cited_by=8401 | The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)
+  [41/50] OpenAlex PDF unavailable, trying arXiv fallback: https://arxiv.org/pdf/2107.13586.pdf
+  [41/50] W3185341429 PDF ok | cited_by=8324 | Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natu
+  [42/50] W2037227137 PDF failed | cited_by=8287 | The Pascal Visual Object Classes Challenge: A Retrospective
+  [43/50] W2133151341 PDF ok | cited_by=8063 | The HITRAN2016 molecular spectroscopic database
+  [44/50] W7133214447 PDF ok | cited_by=7932 | Toolformer: Language Models Can Teach Themselves to Use Tools
+  [45/50] W1920022804 PDF ok | cited_by=7836 | 3D ShapeNets: A deep representation for volumetric shapes
+  [46/50] W2962949934 PDF ok | cited_by=7768 | Recent advances in convolutional neural networks
+  [47/50] W7133209886 PDF ok | cited_by=7733 | Tree of Thoughts: Deliberate Problem Solving with Large Language Models
+  [48/50] W4384071683 PDF ok | cited_by=7517 | Large language models encode clinical knowledge
+  [49/50] W2470052926 PDF failed | cited_by=7446 | NCBI prokaryotic genome annotation pipeline
+  [50/50] W4387225871 PDF ok | cited_by=7351 | Qwen Technical Report
+
+Paper acquisition complete.
+  Papers saved: 50 -> data/papers_meta.json
+  PDFs downloaded: 41
+  PDFs failed (abstract fallback will be used): 9
+  PDFs stored in: data/raw_pdfs/

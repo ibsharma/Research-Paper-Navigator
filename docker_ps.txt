@@ -1,0 +1,2 @@
+CONTAINER ID   IMAGE                  COMMAND             CREATED          STATUS          PORTS                                         NAMES
+cf32ae3a22a5   qdrant/qdrant:latest   "./entrypoint.sh"   22 seconds ago   Up 21 seconds   0.0.0.0:6333->6333/tcp, [::]:6333->6333/tcp   research-paper-navigator-qdrant-1

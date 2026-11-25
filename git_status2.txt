@@ -1,0 +1,48 @@
+On branch feature/inital-set-up
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	.env
+	.env.example
+	.gitignore
+	SPEC.md
+	collection_info.txt
+	data_check.txt
+	docker_info.txt
+	docker_info2.txt
+	docker_out.txt
+	docker_ps.txt
+	docker_up.txt
+	fetch_out.txt
+	fetch_out2.txt
+	fetch_out3.txt
+	fetch_out4.txt
+	final_search.txt
+	final_typecheck.txt
+	final_typecheck2.txt
+	git_status.txt
+	git_status2.txt
+	graph_out.txt
+	index_out.txt
+	index_out2.txt
+	meta_check.txt
+	meta_check4.txt
+	node_modules_check.txt
+	paper_count.txt
+	pdf_count.txt
+	qdrant_check.txt
+	qdrant_test.txt
+	raw_pdfs_check.txt
+	search_out.txt
+	search_out2.txt
+	src/
+	state_check.txt
+	tasklist.txt
+	test.txt
+	typecheck_out.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
