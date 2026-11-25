@@ -1,0 +1,133 @@
+ Image qdrant/qdrant:latest Pulling 
+ 4f4fb700ef54 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 46cf9faa58b0 Pulling fs layer 0B
+ c8f68a15acba Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ b52a3a73fb65 Pulling fs layer 0B
+ a89875a79b19 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 37fb86c2a767 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 4f4fb700ef54 Pulling fs layer 0B
+ 297867d89bc3 Pulling fs layer 0B
+ 6cc95ea4516c Pulling fs layer 0B
+ a89875a79b19 Downloading 87.3kB
+ 4f4fb700ef54 Download complete 0B
+ 44136fa355b3 Download complete 0B
+ 46cf9faa58b0 Downloading 2.097MB
+ a89875a79b19 Download complete 0B
+ 46cf9faa58b0 Downloading 4.194MB
+ 46cf9faa58b0 Downloading 5.243MB
+ 46cf9faa58b0 Downloading 7.114MB
+ b52a3a73fb65 Download complete 0B
+ 6cc95ea4516c Download complete 0B
+ 46cf9faa58b0 Download complete 0B
+ c8f68a15acba Download complete 0B
+ 37fb86c2a767 Downloading 1.049MB
+ 297867d89bc3 Downloading 1.049MB
+ 37fb86c2a767 Downloading 2.097MB
+ 297867d89bc3 Downloading 1.049MB
+ 11144065e63d Downloading 1.049MB
+ 11144065e63d Downloading 2.097MB
+ 37fb86c2a767 Downloading 3.146MB
+ 297867d89bc3 Downloading 1.049MB
+ 297867d89bc3 Downloading 1.049MB
+ 11144065e63d Downloading 2.097MB
+ 37fb86c2a767 Downloading 3.146MB
+ 37fb86c2a767 Downloading 4.194MB
+ 297867d89bc3 Downloading 2.097MB
+ 297867d89bc3 Downloading 2.097MB
+ 11144065e63d Download complete 0B
+ 37fb86c2a767 Downloading 5.243MB
+ 37fb86c2a767 Downloading 6.291MB
+ 297867d89bc3 Downloading 3.146MB
+ 1772038019e7 Download complete 0B
+ 297867d89bc3 Downloading 3.146MB
+ 37fb86c2a767 Downloading 8.389MB
+ 297867d89bc3 Downloading 3.146MB
+ 37fb86c2a767 Downloading 9.437MB
+ 37fb86c2a767 Downloading 10.49MB
+ 297867d89bc3 Downloading 4.194MB
+ 297867d89bc3 Downloading 4.194MB
+ 37fb86c2a767 Downloading 11.53MB
+ 37fb86c2a767 Downloading 13.63MB
+ 297867d89bc3 Downloading 4.194MB
+ 37fb86c2a767 Downloading 14.68MB
+ 297867d89bc3 Downloading 5.243MB
+ 297867d89bc3 Downloading 5.243MB
+ 37fb86c2a767 Downloading 16.78MB
+ 37fb86c2a767 Downloading 17.83MB
+ 297867d89bc3 Downloading 6.291MB
+ 297867d89bc3 Downloading 6.291MB
+ 37fb86c2a767 Downloading 19.92MB
+ 297867d89bc3 Downloading 7.34MB
+ 37fb86c2a767 Downloading 20.97MB
+ 297867d89bc3 Downloading 7.34MB
+ 37fb86c2a767 Downloading 23.07MB
+ 37fb86c2a767 Downloading 24.12MB
+ 297867d89bc3 Downloading 8.389MB
+ 297867d89bc3 Downloading 8.389MB
+ 37fb86c2a767 Downloading 26.21MB
+ 297867d89bc3 Downloading 9.437MB
+ 37fb86c2a767 Downloading 28.31MB
+ 297867d89bc3 Downloading 9.437MB
+ 297867d89bc3 Downloading 10.49MB
+ 37fb86c2a767 Download complete 0B
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 11.53MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 11.53MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 12.58MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 13.63MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 13.63MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 14.68MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 15.73MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 15.73MB
+ 37fb86c2a767 Extracting 1B
+ 297867d89bc3 Downloading 16.78MB
+ 297867d89bc3 Downloading 17.83MB
+ b52a3a73fb65 Extracting 1B
+ 37fb86c2a767 Pull complete 0B
+ 297867d89bc3 Downloading 18.87MB
+ b52a3a73fb65 Pull complete 0B
+ 297867d89bc3 Downloading 19.92MB
+ 297867d89bc3 Downloading 20.97MB
+ 297867d89bc3 Downloading 23.07MB
+ 297867d89bc3 Downloading 24.12MB
+ 297867d89bc3 Downloading 25.17MB
+ 297867d89bc3 Downloading 26.21MB
+ 297867d89bc3 Downloading 27.26MB
+ 297867d89bc3 Downloading 29.36MB
+ 297867d89bc3 Downloading 30.41MB
+ 297867d89bc3 Downloading 32.51MB
+ 297867d89bc3 Downloading 33.55MB
+ 297867d89bc3 Downloading 35.65MB
+ 297867d89bc3 Download complete 0B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Extracting 1B
+ 297867d89bc3 Pull complete 0B
+ a89875a79b19 Pull complete 0B
+ 6cc95ea4516c Pull complete 0B
+ c8f68a15acba Pull complete 0B
+ 46cf9faa58b0 Extracting 1B
+ 46cf9faa58b0 Pull complete 0B
+ 4f4fb700ef54 Pull complete 0B
+ Image qdrant/qdrant:latest Pulled 
+ Network research-paper-navigator_default Creating 
+ Network research-paper-navigator_default Created 
+ Container research-paper-navigator-qdrant-1 Creating 
+ Container research-paper-navigator-qdrant-1 Created 
+ Container research-paper-navigator-qdrant-1 Starting 
+ Container research-paper-navigator-qdrant-1 Started 

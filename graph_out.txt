@@ -1,0 +1,11 @@
+
+> research-paper-navigator@1.0.0 graph
+> tsx src/2_build_graph.ts
+
+Bridge candidates cited by >= 3 seeds: 264
+
+Citation graph complete.
+  Total nodes: 314 (seed: 50, bridge: 264)
+  Internal edges (seed-seed): 76
+  Total edges: 1141
+  Saved to: data/citation_graph.json

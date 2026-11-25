@@ -1,0 +1,8 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F2C6-2F32
+
+ Directory of C:\dev\Agent\Research-Paper-Navigator\data
+
+11/24/2026  06:13 PM           337,872 papers_meta.json
+               1 File(s)        337,872 bytes
+               0 Dir(s)  343,771,484,160 bytes free

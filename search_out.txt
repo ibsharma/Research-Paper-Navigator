@@ -1,0 +1,26 @@
+
+> research-paper-navigator@1.0.0 search
+> tsx src/4_search.ts dense passage retrieval vs parametric memory
+
+Search failed: ApiError: Bad Request
+    at Object.fun [as queryPoints] (file:///C:/dev/Agent/Research-Paper-Navigator/node_modules/@qdrant/openapi-typescript-fetch/dist/esm/fetcher.js:169:23)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)
+    at async QdrantClient.query (file:///C:/dev/Agent/Research-Paper-Navigator/node_modules/@qdrant/js-client-rest/dist/esm/qdrant-client.js:1156:26)
+    at async main (C:\dev\Agent\Research-Paper-Navigator\src\4_search.ts:83:24) {
+  headers: Headers {
+    'transfer-encoding': 'chunked',
+    'content-encoding': 'gzip',
+    vary: 'accept-encoding, Origin, Access-Control-Request-Method, Access-Control-Request-Headers',
+    'content-type': 'application/json',
+    date: 'Wed, 25 Nov 2026 02:02:48 GMT'
+  },
+  url: 'http://localhost:6333/collections/rag_papers/points/query',
+  status: 400,
+  statusText: 'Bad Request',
+  data: {
+    status: {
+      error: 'Format error in JSON body: Expected some form of vector, id, or a type of query at line 1 column 832'
+    },
+    time: 0
+  }
+}

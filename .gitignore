@@ -1,0 +1,26 @@
+# Node.js
+node_modules/
+
+# Output
+output/
+dist/
+
+# Data directories (generated at runtime)
+data/
+raw_pdfs/
+*.json
+
+# Qdrant storage (generated at runtime)
+qdrant_storage/
+
+# Docker
+docker-compose.yml
+
+# Memory and setup files (per-project notes, not for repo)
+memory.md
+setup.md
+
+# Test files
+test_*.mjs
+test_*.txt
+*.json

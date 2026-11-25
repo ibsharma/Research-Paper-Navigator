@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is F2C6-2F32
+
+ Directory of C:\dev\Agent\Research-Paper-Navigator\data
+
+11/24/2026  03:54 PM    <DIR>          .
+11/24/2026  05:51 PM    <DIR>          ..
+11/24/2026  05:51 PM    <DIR>          raw_pdfs
+               0 File(s)              0 bytes
+               3 Dir(s)  343,890,145,280 bytes free

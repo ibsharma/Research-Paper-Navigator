@@ -1,0 +1,298 @@
+
+> research-paper-navigator@1.0.0 index
+> tsx src/3_index_qdrant.ts
+
+Loading embedding model Xenova/bge-small-en-v1.5 (may download weights on first run)...
+Embedding model loaded.
+Recreating Qdrant collection 'rag_papers' (size=384, distance=Cosine)...
+  [1/50] W3030163527 -> 262 chunks (pdf) | Language Models are Few-Shot Learners
+  [2/50] W4327810158 -> 317 chunks (pdf) | GPT-4 Technical Report
+Warning: TT: undefined function: 32
+Warning: TT: undefined function: 32
+  [3/50] W3003257820 -> 109 chunks (pdf) | SciPy 1.0: fundamental algorithms for scientific computing in Python
+  [4/50] W2120145199 -> 122 chunks (pdf) | QUANTUM ESPRESSO: a modular and open-source software project for quant
+  [5/50] W2981852735 -> 224 chunks (pdf) | Exploring the Limits of Transfer Learning with a Unified Text-to-Text 
+  [6/50] W4401306886 -> 392 chunks (pdf) | The Llama 3 Herd of Models
+  [7/50] W2970641574 -> 48 chunks (pdf) | Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks
+Warning: loadFont - translateFont failed: "UnknownErrorException: Ensure that the `cMapUrl` API parameter is provided.".
+Warning: loadFont - translateFont failed: "UnknownErrorException: Ensure that the `cMapUrl` API parameter is provided.".
+Warning: loadFont - translateFont failed: "UnknownErrorException: Ensure that the `cMapUrl` API parameter is provided.".
+  [8/50] W4414939355 -> 126 chunks (pdf) | Qwen3 Technical Report
+  [9/50] W3098425262 -> 66 chunks (pdf) | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  [10/50] W4414281281 -> 55 chunks (pdf) | DeepSeek-R1 incentivizes reasoning in LLMs through reinforcement learn
+  [11/50] W1992419399 -> 1 chunks (abstract) | Data clustering: a review
+  [12/50] W2271840356 -> 88 chunks (pdf) | TensorFlow: Large-Scale Machine Learning on Heterogeneous Distributed 
+  [13/50] W2981731882 -> 284 chunks (pdf) | Explainable Artificial Intelligence (XAI): Concepts, taxonomies, oppor
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: UnknownErrorException: Ensure that the `standardFontDataUrl` API parameter is provided.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+Warning: #getWasmInstance: Error: No image decoder registered for jbig2.wasm: call registerImageDecoders() from unpdf first
+Warning: #getJsInstance: Error: No image decoder registered for jbig2_nowasm_fallback.js: call registerImageDecoders() from unpdf first
+Warning: Type3 font resource "1" is not available.
+  [14/50] W2127048411 -> 590 chunks (pdf) | Community detection in graphs
+  [15/50] W3163993681 -> 140 chunks (pdf) | Physics-informed machine learning
+Warning: TT: undefined function: 32
+  [16/50] W2995022099 -> 467 chunks (pdf) | Advances and Open Problems in Federated Learning
+  [17/50] W1532325895 -> 1 chunks (abstract) | Introduction to information retrieval
+  [18/50] W3195577433 -> 939 chunks (pdf) | On the Opportunities and Risks of Foundation Models
+  [19/50] W3159481202 -> 105 chunks (pdf) | Emerging Properties in Self-Supervised Vision Transformers
+  [20/50] W4309674289 -> 275 chunks (pdf) | Survey of Hallucination in Natural Language Generation
+  [21/50] W2757803490 -> 188 chunks (pdf) | Advanced capabilities for materials modelling with Q uantum ESPRESSO
+  [22/50] W2134295053 -> 187 chunks (pdf) | Internet of Things: A Survey on Enabling Technologies, Protocols, and 
+  [23/50] W3027879771 -> 76 chunks (pdf) | Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks
+  [24/50] W3140854437 -> 250 chunks (pdf) | Review of deep learning: concepts, CNN architectures, challenges, appl
+  [25/50] W4318718936 -> 54 chunks (pdf) | BLIP-2: Bootstrapping Language-Image Pre-training with Frozen Image En
+  [26/50] W2117131162 -> 2 chunks (abstract) | Integrative Genomics Viewer (IGV): high-performance genomics data visu
+  [27/50] W4304195432 -> 121 chunks (pdf) | ReAct: Synergizing Reasoning and Acting in Language Models
+Warning: TT: undefined function: 21
+Warning: TT: undefined function: 3
+Warning: TT: invalid function id: 136
+Warning: TT: invalid function id: 136
+Warning: TT: undefined function: 21
+  [28/50] W4405903187 -> 167 chunks (pdf) | DeepSeek-V3 Technical Report
+  [29/50] W3152893301 -> 176 chunks (pdf) | Graph neural networks: A review of methods and applications
+  [30/50] W2979750740 -> 64 chunks (pdf) | Dynamic Graph CNN for Learning on Point Clouds
+  [31/50] W3107527779 -> 2 chunks (abstract) | The STRING database in 2021: customizable protein–protein networks, an
+  [32/50] W2185907055 -> 1 chunks (abstract) | A relational model of data for large shared data banks
+  [33/50] W2463195069 -> 1 chunks (abstract) | The Perseus computational platform for comprehensive analysis of (prot
+  [34/50] W4389984066 -> 118 chunks (pdf) | Retrieval-Augmented Generation for Large Language Models: A Survey
+  [35/50] W4362515116 -> 264 chunks (pdf) | A Survey of Large Language Models
+  [36/50] W3015883388 -> 62 chunks (pdf) | Dense Passage Retrieval for Open-Domain Question Answering
+  [37/50] W3041133507 -> 206 chunks (pdf) | A Comprehensive Survey on Transfer Learning
+  [38/50] W4360620450 -> 3 chunks (abstract) | Opinion Paper: “So what if ChatGPT wrote it?” Multidisciplinary perspe
+  [39/50] W4387835442 -> 142 chunks (pdf) | Generative Agents: Interactive Simulacra of Human Behavior
+  [40/50] W1641498739 -> 184 chunks (pdf) | The Multimodal Brain Tumor Image Segmentation Benchmark (BRATS)
+  [41/50] W3185341429 -> 298 chunks (pdf) | Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Metho
+  [42/50] W2037227137 -> 1 chunks (abstract) | The Pascal Visual Object Classes Challenge: A Retrospective
+  [43/50] W2133151341 -> 455 chunks (pdf) | The HITRAN2016 molecular spectroscopic database
+Warning: Required "glyf" table is not found -- trying to recover.
+  [44/50] W7133214447 -> 81 chunks (pdf) | Toolformer: Language Models Can Teach Themselves to Use Tools
+  [45/50] W1920022804 -> 42 chunks (pdf) | 3D ShapeNets: A deep representation for volumetric shapes
+  [46/50] W2962949934 -> 186 chunks (pdf) | Recent advances in convolutional neural networks
+  [47/50] W7133209886 -> 61 chunks (pdf) | Tree of Thoughts: Deliberate Problem Solving with Large Language Model
+  [48/50] W4384071683 -> 119 chunks (pdf) | Large language models encode clinical knowledge
+  [49/50] W2470052926 -> 2 chunks (abstract) | NCBI prokaryotic genome annotation pipeline
+  [50/50] W4387225871 -> 178 chunks (pdf) | Qwen Technical Report
+
+Indexing complete.
+  Papers processed: 50
+  PDF text extracted: 41
+  Abstract fallbacks: 9
+  Total chunks indexed: 8302
+  Qdrant collection 'rag_papers' points: 8302
